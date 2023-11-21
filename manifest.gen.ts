@@ -9,14 +9,14 @@ import * as $$$$$$$$$$$1 from "./apps/site.ts";
 
 const manifest = {
   "sections": {
-    "deco-sites/link-list/sections/Links.tsx": $$$$$$0,
-    "deco-sites/link-list/sections/Theme.tsx": $$$$$$1,
+    "deco-sites/thebrain/sections/Links.tsx": $$$$$$0,
+    "deco-sites/thebrain/sections/Theme.tsx": $$$$$$1,
   },
   "apps": {
-    "deco-sites/link-list/apps/decohub.ts": $$$$$$$$$$$0,
-    "deco-sites/link-list/apps/site.ts": $$$$$$$$$$$1,
+    "deco-sites/thebrain/apps/decohub.ts": $$$$$$$$$$$0,
+    "deco-sites/thebrain/apps/site.ts": $$$$$$$$$$$1,
   },
-  "name": "deco-sites/link-list",
+  "name": "deco-sites/thebrain",
   "baseUrl": import.meta.url,
 };
 
